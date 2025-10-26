@@ -1,0 +1,12 @@
+C:\Users\Dell\OneDrive\Desktop\Projects\FlexEngine\FlexEngineCsharp\FlexEngineCore\bin\Debug\net9.0\FlexEngineCore.deps.json
+C:\Users\Dell\OneDrive\Desktop\Projects\FlexEngine\FlexEngineCsharp\FlexEngineCore\bin\Debug\net9.0\FlexEngineCore.dll
+C:\Users\Dell\OneDrive\Desktop\Projects\FlexEngine\FlexEngineCsharp\FlexEngineCore\bin\Debug\net9.0\FlexEngineCore.pdb
+C:\Users\Dell\OneDrive\Desktop\Projects\FlexEngine\FlexEngineCsharp\FlexEngineCore\obj\Debug\net9.0\FlexEngineCore.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dell\OneDrive\Desktop\Projects\FlexEngine\FlexEngineCsharp\FlexEngineCore\obj\Debug\net9.0\FlexEngineCore.AssemblyInfoInputs.cache
+C:\Users\Dell\OneDrive\Desktop\Projects\FlexEngine\FlexEngineCsharp\FlexEngineCore\obj\Debug\net9.0\FlexEngineCore.AssemblyInfo.cs
+C:\Users\Dell\OneDrive\Desktop\Projects\FlexEngine\FlexEngineCsharp\FlexEngineCore\obj\Debug\net9.0\FlexEngineCore.csproj.CoreCompileInputs.cache
+C:\Users\Dell\OneDrive\Desktop\Projects\FlexEngine\FlexEngineCsharp\FlexEngineCore\obj\Debug\net9.0\FlexEngineCore.dll
+C:\Users\Dell\OneDrive\Desktop\Projects\FlexEngine\FlexEngineCsharp\FlexEngineCore\obj\Debug\net9.0\refint\FlexEngineCore.dll
+C:\Users\Dell\OneDrive\Desktop\Projects\FlexEngine\FlexEngineCsharp\FlexEngineCore\obj\Debug\net9.0\FlexEngineCore.pdb
+C:\Users\Dell\OneDrive\Desktop\Projects\FlexEngine\FlexEngineCsharp\FlexEngineCore\obj\Debug\net9.0\ref\FlexEngineCore.dll
+C:\Users\Dell\OneDrive\Desktop\Projects\FlexEngine\FlexEngineCsharp\FlexEngineCore\obj\Debug\net9.0\FlexEngineCore.csproj.AssemblyReference.cache
